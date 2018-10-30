@@ -1,6 +1,8 @@
 # Neural Nets Tutorial
 
-In this repo, I would like to show a brief hands-on neural network tutorial.
+In this repo, I would like to show a brief hands-on neural network tutorial. 
+The aim is cover from artificial neuron (McCulloch-Pitts) to current neural network, justifying why it is necessary.
+The tutorial finish by a little example in Keras. 
 
 Credits for the dataset:
 
